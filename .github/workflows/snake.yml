@@ -1,18 +1,22 @@
 name: Generate Contribution Snake
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: meguminn1
