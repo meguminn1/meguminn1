@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Megumin</h1>
+<p align="center">Creative full-stack developer specializing in scalable and innovative web solutions</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6CE7F5&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Crafting+Frontend+%26+Backend+Excellence;Forever+Curious+%26+Innovative" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6CE7F5&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Modern+Web+Apps;Ensuring+Efficiency+and+Innovation"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meguminn1&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/meguminn1?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=meguminn1&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/meguminn1?style=for-the-badge"/>
 </p>
 
 ---
@@ -29,7 +30,7 @@
 
 ### 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,go,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,go,php,docker" />
 </p>
 
 ---
@@ -43,6 +44,7 @@
 ---
 
 ## 📌 Featured Projects
+
 ### 🚀 [Qrtz3dporto](https://github.com/meguminn1/qrtz3dporto)
 **Description:** 3D full-stack project  
 **Stack:** React · Node.js · MongoDB · Express  
@@ -63,7 +65,7 @@
 
 ## 🏆 GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meguminn1&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meguminn1&theme=github"/>
   <img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=radical" height="170"/>
 </p>
@@ -89,59 +91,37 @@ flowchart LR
     BE --> GO[Go Service]
     BE --> PHP[PHP Service]
     BE --> CI[GitHub Actions]
-
+```
 
 ---
 
 🗺️ Roadmap (Full-Stack)
 
 Phase 1 — Frontend Core
-
-HTML, CSS, JavaScript
-
-Responsive Design
-
-TypeScript basics
-
+- HTML, CSS, JavaScript
+- Responsive Design
+- TypeScript basics
 
 Phase 2 — Frontend Frameworks
-
-React (Hooks, State)
-
-Next.js (SSR, Routing)
-
-Vue.js fundamentals
-
-Tailwind CSS
-
+- React (Hooks, State)
+- Next.js (SSR, Routing)
+- Vue.js fundamentals
+- Tailwind CSS
 
 Phase 3 — Backend Essentials
-
-Node.js + TypeScript
-
-REST API & Auth (JWT)
-
-Database (MongoDB / PostgreSQL)
-
+- Node.js + TypeScript
+- REST API & Auth (JWT)
+- Database (MongoDB / PostgreSQL)
 
 Phase 4 — Integration & Deployment
-
-Frontend ↔ Backend
-
-CI/CD (GitHub Actions)
-
-Deploy (Vercel / VPS)
-
+- Frontend ↔ Backend
+- CI/CD (GitHub Actions)
+- Deploy (Vercel / VPS)
 
 Phase 5 — Advanced
-
-Redis & background jobs
-
-Microservices (Go / Python)
-
-Scalability & monitoring
-
-
+- Redis & background jobs
+- Microservices (Go / Python)
+- Scalability & monitoring
 
 ---
 
@@ -155,6 +135,7 @@ Scalability & monitoring
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ⭐ Innovating the Future, One Line of Code at a Time! ⭐
