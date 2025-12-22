@@ -5,54 +5,54 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meguminn1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/meguminn1?style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=meguminn1&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/meguminn1?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 **Creative Full-Stack Developer** passionate about bringing ideas to life.  
-- 🌐 Expert in **frontend & backend development** with modern technologies.  
-- 🔭 Building scalable **Web Apps, REST APIs, and Backend Services**.  
-- 🌱 Eager to learn and implement innovative tech like **Node.js clusters**.  
-- 🤝 Open to collaborations and exploring exciting opportunities.  
+- 💻 **Creative Full-Stack Developer** passionate about bringing ideas to life  
+- 🌐 Expert in **frontend & backend development** with modern technologies  
+- 🔭 Building scalable **Web Apps, REST APIs, and Backend Services**  
+- 🌱 Exploring **Node.js scaling & backend architecture**  
+- 🤝 Open to collaborations  
 
 ---
 
 ## 🌟 Skills & Expertise
+
+### 🌐 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+</p>
+
+### 🧠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,go,php" />
 </p>
 
 ---
 
 ## 🎯 Goals & Vision
-- 🎨 Build innovative **frontend user experiences** with React and Next.js.  
-- 🌐 Design **optimized backend architectures** with Node.js.  
-- 🛠 Create **scalable and maintainable web applications** for millions of users.  
-- ✨ Inspire and mentor the next generation of developers.  
+- 🎨 Build innovative **frontend experiences** with React & Next.js  
+- 🌐 Design **scalable backend architectures**  
+- 🛠 Create **maintainable production-ready systems**  
+- ✨ Grow as a **professional full-stack engineer**  
 
 ---
 
 ## 📌 Featured Projects
 ### 🚀 [Qrtz3dporto](https://github.com/meguminn1/qrtz3dporto)
-  **Description:** A cutting-edge 3D full-stack project showcasing creativity and practical implementation.  
-  - Build With: **React, Node.js, MongoDB, Express**
+**Description:** 3D full-stack project  
+**Stack:** React · Node.js · MongoDB · Express  
 
 ### 🌸 [Qrtznime](https://github.com/meguminn1/qrtznime)
-  **Description:** A dynamic anime-inspired web application built with modern JavaScript techniques.  
+**Description:** Anime-inspired JavaScript web application  
 
 ---
 
-## ⭐ Support My Work!
-If you find my projects interesting or helpful, consider giving them a ⭐:
-
+## ⭐ Support My Work
 <p align="center">
   <a href="https://github.com/meguminn1?tab=repositories">
     <img src="https://img.shields.io/badge/⭐-Star%20My%20Repositories-brightgreen?style=for-the-badge" />
@@ -63,30 +63,98 @@ If you find my projects interesting or helpful, consider giving them a ⭐:
 
 ## 🏆 GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meguminn1&theme=github" alt="GitHub Profile Summary" />
-  <img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=radical" alt="Most Used Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meguminn1&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/meguminn1/animated-background/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/meguminn1/meguminn1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏗️ Full-Stack Architecture
+```mermaid
+flowchart LR
+    U[User / Browser] --> FE[Frontend\nReact / Next.js / Vue]
+    FE -->|API| BE[Backend\nNode.js (TypeScript)]
+    BE --> DB[(Database\nMongoDB / PostgreSQL)]
+    BE --> AUTH[JWT Auth]
+    BE --> CACHE[(Redis)]
+    BE --> PY[Python Service]
+    BE --> GO[Go Service]
+    BE --> PHP[PHP Service]
+    BE --> CI[GitHub Actions]
+
+
+---
+
+🗺️ Roadmap (Full-Stack)
+
+Phase 1 — Frontend Core
+
+HTML, CSS, JavaScript
+
+Responsive Design
+
+TypeScript basics
+
+
+Phase 2 — Frontend Frameworks
+
+React (Hooks, State)
+
+Next.js (SSR, Routing)
+
+Vue.js fundamentals
+
+Tailwind CSS
+
+
+Phase 3 — Backend Essentials
+
+Node.js + TypeScript
+
+REST API & Auth (JWT)
+
+Database (MongoDB / PostgreSQL)
+
+
+Phase 4 — Integration & Deployment
+
+Frontend ↔ Backend
+
+CI/CD (GitHub Actions)
+
+Deploy (Vercel / VPS)
+
+
+Phase 5 — Advanced
+
+Redis & background jobs
+
+Microservices (Go / Python)
+
+Scalability & monitoring
+
+
+
+---
+
+🌐 Connect With Me
+
 <p align="center">
   <a href="https://t.me/reiqrtz">
-    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/meguminn1">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
-⭐ **Innovating the Future, One Line of Code at a Time!** ⭐
+⭐ Innovating the Future, One Line of Code at a Time! ⭐
