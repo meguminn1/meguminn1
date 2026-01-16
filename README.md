@@ -134,7 +134,7 @@ Scalability & monitoring
 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/reiqrtz">
+  <a href="https://t.me/gasaiiiyuno">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/meguminn1">
