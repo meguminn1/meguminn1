@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Megumin</h1>
+
 <p align="center">
   <img src="https://i.postimg.cc/HkTD2wWn/meguminn1.jpg" alt="Kobeni banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6CE7F5&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;Building+Scalable+Modern+Web+Apps;Crafting+Clean+%26+Fast+Digital+Experiences;Kobeni+energy%3A+quiet+but+reliable" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6CE7F5&center=true&vCenter=true&width=720&lines=Backend+Developer;Building+Reliable+%26+Scalable+Web+Systems;Focused+on+Clean+Code+and+Strong+Architecture;Kobeni+energy%3A+quiet+but+dependable" />
 </p>
 
 <p align="center">
@@ -14,55 +15,48 @@
 
 🌸 About Me
 
-I’m a creative backend developer who likes turning ideas into polished, usable products.
+I’m a backend developer who enjoys building reliable systems, clean APIs, and products that feel smooth to use.
 
-- 💻 Strong focus on frontend, backend, and clean architecture
-- 🌐 Building scalable web apps, REST APIs, and production-ready systems
-- 🧩 Enjoying TypeScript, modern UI, and maintainable code
+- 💻 Focused on backend development and modern web applications
+- ⚙️ Building scalable APIs, services, and production-ready systems
+- 🧩 Comfortable with TypeScript, Node.js, databases, and clean code
+- 🌐 Also familiar with frontend workflows when needed
 - 🤝 Open to collaborations and interesting projects
 
 🧠 Skills & Expertise
-
-🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
-</p>
 
 ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,python,docker" />
 </p>
 
+🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind" />
+</p>
+
 🛠️ Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mongodb,postgres,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ✨ Style Keywords
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code-Important-6ce7f5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modern%20UI-Preferred-a78bfa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Soft%20Chaos-Approved-ff8fb1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Preferred-6ce7f5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reliable%20Systems-Focused-a78bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quiet%20But%20Effective-My%20Style-ff8fb1?style=for-the-badge" />
 </p>
-
-🎯 Goals & Vision
-
-- Build polished frontend experiences with React, Next.js, and Vue
-- Design scalable backend systems with clean API structure
-- Create maintainable, production-ready projects
-- Keep improving as a full-stack engineer with strong fundamentals
-- Blend aesthetics, performance, and personality in every project
 
 📌 Featured Projects
 
 🚀 QrtzMusic
-Web to listen to music for free without ads
-**Stack:** TypeScript · Node.js · Sql 
+A web app for listening to music with a clean and simple experience.  
+**Stack:** TypeScript · Node.js · SQL
 
 🌸 Qrtznime
-Anime-inspired JavaScript web application  
-**Theme:** Stylish, expressive, and playful UI
+Anime-inspired JavaScript web application with a stylish and expressive UI.  
+**Theme:** beautiful, clean, and visually engaging
 
 🏆 GitHub Analytics
 
@@ -77,7 +71,6 @@ Anime-inspired JavaScript web application
 <p align="center">
   <img src="https://raw.githubusercontent.com/meguminn1/meguminn1/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 🌐 Connect With Me
 
