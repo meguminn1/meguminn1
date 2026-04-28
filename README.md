@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Megumin</h1>
 <p align="center">
-  <img src="./kobeni-banner.svg" alt="Kobeni banner" />
+  <img src="https://i.postimg.cc/HkTD2wWn/meguminn1.jpg" alt="Kobeni banner" />
 </p>
 
 <p align="center">
