@@ -77,14 +77,20 @@ xychart-beta
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,vercel,docker,py,html,css,js" />
 </p>
 ### 🚀 Featured Work
- * **🎧 QrtzMusic**
+ **🎧 QrtzMusic**
    * Music platform tanpa login, tanpa DB, fully client-driven.
- * **🌸 Qrtznime**
-   * UI/UX-focused anime web experience.
+ **🌸 Qrtznime**
+   **UI/UX-focused anime web experience.**
+
+---
+
 ### 🐍 Contribution History
 <div align="center">
 <img src="https://raw.githubusercontent.com/meguminn1/meguminn1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
+
+---
+
 ### 🌐 Connect
 <div align="center">
 <a href="https://t.me/rynaaqrtz">
