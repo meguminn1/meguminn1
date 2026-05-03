@@ -1,13 +1,16 @@
 <div align="center">
 
+<!-- Typing Animation - Backend Dev focus -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFB7C5&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Megumin;Backend+Engineer+%26+System+Designer;Building+Scalable+%26+Reliable+Systems;Serverless+%7C+API+Design+%7C+Clean+Architecture;Quiet+but+Impactful+%F0%9F%8C%B8" alt="Typing SVG" />
 
 <br/>
 
+<!-- Banner -->
 <img src="https://i.postimg.cc/HkTD2wWn/meguminn1.jpg" alt="banner" width="100%" style="border-radius:16px; margin:10px 0;" />
 
 <br/>
 
+<!-- Badges -->
 <img src="https://img.shields.io/github/followers/meguminn1?style=for-the-badge&color=FFB7C5&labelColor=1a1a2e&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=meguminn1&style=for-the-badge&color=FFB7C5&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Role-Backend%20Engineer-FFB7C5?style=for-the-badge&labelColor=1a1a2e" />
@@ -18,6 +21,8 @@
 ---
 
 <div align="center">
+
+### `< Backend Dev />` — What I Do
 
 </div>
 
@@ -30,6 +35,8 @@ const megumin = {
   tools     : ["Node.js", "TypeScript", "Next.js", "Docker", "Redis", "BullMQ"],
 };
 ```
+
+---
 
 ### 🌸 Philosophy
 
@@ -88,12 +95,17 @@ xychart-beta
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meguminn1&theme=transparent&hide_border=true&stroke=FFB7C5&ring=FFB7C5&fire=FFB7C5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FFB7C5&dates=aaaaaa" height="170" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=meguminn1&theme=transparent&hide_border=true&stroke=FFB7C5&ring=FFB7C5&fire=ff8fb1&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FFB7C5&dates=aaaaaa&background=0d1117" height="195" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats-one-eight.vercel.app/api?username=meguminn1&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&icon_color=FFB7C5&text_color=ffffff&bg_color=00000000" height="170" alt="Overall Stats" />
-<img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=ffffff&bg_color=00000000" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFB7C5&icon_color=FFB7C5&text_color=ffffff&bg_color=0d1117&rank_icon=github&card_width=400" height="195" alt="Overall Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB7C5&text_color=ffffff&bg_color=0d1117&card_width=335" height="195" alt="Top Languages" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meguminn1&bg_color=0d1117&color=FFB7C5&line=FFB7C5&point=ff8fb1&area=true&hide_border=true&area_color=FFB7C5" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -123,31 +135,35 @@ xychart-beta
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎧 QrtzMusic**
+### 🎧 QrtzMusic
+> *Music platform tanpa login, tanpa DB, fully client-driven.*
 
-Music platform tanpa login, tanpa DB, fully client-driven.
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Serverless](https://img.shields.io/badge/Serverless-fd5750?style=flat-square&logo=serverless)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square)
 
-`Next.js` `Serverless` `YouTube API` `Redis` `BullMQ`
-
-- Zero-auth architecture
-- Client-side storage only
-- AI-powered via Kobeni AI Service
-- Auto-scaling on Vercel
+- ✅ Zero-auth architecture
+- ✅ Client-side storage only
+- ✅ AI-powered via Kobeni AI Service
+- ✅ Auto-scaling on Vercel
+- ✅ YouTube API integration
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌸 Qrtznime**
+### 🌸 Qrtznime
+> *UI/UX-focused anime web experience.*
 
-UI/UX-focused anime web experience.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-`React` `Tailwind` `TypeScript`
-
-- Immersive anime browsing UI
-- Focus on smooth UX & animations
-- Clean, component-driven design
+- ✅ Immersive anime browsing UI
+- ✅ Focus on smooth UX & animations
+- ✅ Clean, component-driven design
 
 </td>
 </tr>
@@ -178,7 +194,7 @@ UI/UX-focused anime web experience.
 
 <br/><br/>
 
-<img src="https://i.postimg.cc/bw91b0f7/kobeni-double-peace.gif" width="180" style="border-radius:12px;" />
+<img src="https://i.postimg.cc/bw91b0f7/kobeni-double-peace.gif" width="100%" style="border-radius:12px; max-height:400px; object-fit:cover;" />
 
 <br/><br/>
 
