@@ -55,6 +55,9 @@ xychart-beta
     line [110,140,180,260]
 
 ```
+
+---
+
 ### 🏆 Personal Achievements & Stats
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=meguminn1&theme=flat&column=7&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
@@ -66,6 +69,9 @@ xychart-beta
 <img src="https://github-readme-stats-one-eight.vercel.app/api?username=meguminn1&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=ffffff&bg_color=00000000" height="170" alt="Overall Stats" />
 <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=ffffff&bg_color=00000000" height="170" alt="Top Languages" />
 </div>
+
+---
+
 ### 🧠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,vercel,docker,py,html,css,js" />
@@ -91,6 +97,7 @@ xychart-beta
 <div align="center">
 <img src="https://media.tenor.com/r_z_2zN0K_wAAAAC/kobeni-double-peace.gif" width="200" style="border-radius:12px;" />
 
+---
 
 <strong>Build simple. Scale smart. Stay reliable.</strong>
 
