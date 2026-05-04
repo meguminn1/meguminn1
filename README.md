@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://i.postimg.cc/HkTD2wWn/meguminn1.jpg" alt="banner" width="100%" />
+<img src="https://i.postimg.cc/j5srdv8c/16402.gif" alt="banner" width="100%" />
 
 <br/><br/>
 
@@ -272,7 +272,7 @@ xychart-beta
 
 <br/><br/>
 
-<img src="https://files.catbox.moe/e6of2r.mp4" width="100%" alt="miku" />
+<img src="https://i.postimg.cc/8zJpqy3f/miku-nakano-nakano-miku.gif" width="100%" alt="miku" />
 
 <br/><br/>
 
