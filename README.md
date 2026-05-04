@@ -74,7 +74,7 @@ const megumin: Developer = {
 
   philosophy: "Build simple. Scale only when needed.",
 };
-
+```
 
 ---
 
