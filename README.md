@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://i.postimg.cc/8PswgWHQ/miku-nakano-the-quintessential-quintuplets-(1).gif" alt="banner" width="100%" />
+<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gifhttps://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" alt="banner" width="100%" />
 
 <br/><br/>
 
@@ -272,7 +272,7 @@ xychart-beta
 
 <br/><br/>
 
-<img src="https://i.postimg.cc/8zJpqy3f/miku-nakano-nakano-miku.gif" width="100%" alt="miku" />
+<img src="https://i.postimg.cc/8PswgWHQ/miku-nakano-the-quintessential-quintuplets-(1).gif" width="100%" alt="miku" />
 
 <br/><br/>
 
