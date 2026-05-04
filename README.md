@@ -225,11 +225,6 @@ xychart-beta
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFB7C5&icon_color=ff8fb1&text_color=ffffff&bg_color=0d1117&rank_icon=github&card_width=400&border_radius=12" height="195" alt="Overall Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=tokyonight&hide_border=true&title_color=FFB7C5&text_color=ffffff&bg_color=0d1117&card_width=335&border_radius=12" height="195" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meguminn1&bg_color=0d1117&color=FFB7C5&line=ff8fb1&point=FFB7C5&area=true&hide_border=true&area_color=20103a&radius=6" width="100%" alt="Activity Graph" />
 
 <br/>
