@@ -28,7 +28,6 @@
 
 <br/><br/>
 
-<!-- NOW STATUS -->
 <img src="https://img.shields.io/badge/🎧%20Now%20Building-QrtzMusic-FFB7C5?style=flat-square&labelColor=0d1117" height="24"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍%20Location-Indonesia-ff8fb1?style=flat-square&labelColor=0d1117" height="24"/>
@@ -36,6 +35,8 @@
 <img src="https://img.shields.io/badge/💡%20Open%20To-Collaboration-22c55e?style=flat-square&labelColor=0d1117" height="24"/>
 
 </div>
+
+<div align="center"><img src="https://count.getloli.com/@meguminn1?name=meguminn1&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center"></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
