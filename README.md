@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=260&section=header&text=megumin&fontSize=96&fontColor=ffffff&fontAlignY=43&desc=backend+engineer+%E2%80%A2+system+designer+%E2%80%A2+indonesia+%F0%9F%8C%B8&descSize=18&descAlignY=64&descColor=ffe4ef&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=260&section=header&text=megumin&fontSize=96&fontColor=ffffff&fontAlignY=43&desc=backend+engineer+%E2%80%A2+system+designer&descAlignY=60&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FFB7C5&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Building+QrtzMusic+%E2%80%94+Serverless+%26+Zero-Auth+%F0%9F%8E%A7;Queue+Systems+%C2%B7+BullMQ+%2B+Redis+%C2%B7+Low+Latency+%E2%9A%A1;Node.js+%C2%B7+TypeScript+%C2%B7+Clean+Architecture;Build+simple.+Scale+smart.+Stay+reliable.+%F0%9F%8C%B8" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FFB7C5&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Building+scalable+backend+systems;Obsessed+with+clean+architecture;Queue+systems+%26+low-latency+patterns" width="100%" alt="typing" />
 
 <br/><br/>
 
@@ -185,7 +185,7 @@ xychart-beta
 
 <br/>
 
-> **Design Decisions:**&nbsp; Zero-auth removes session overhead entirely. Client-side storage eliminates DB round-trips. Serverless gives instant global scale. Every decision traces back to one goal — **latency**.
+> **Design Decisions:**&nbsp; Zero-auth removes session overhead entirely. Client-side storage eliminates DB round-trips. Serverless gives instant global scale. Every decision traces back to one goal: **user experience**.
 
 <br/>
 
@@ -353,15 +353,15 @@ xychart-beta
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════╗
 ║               🌐  SCRAPER ECOSYSTEM  —  meguminn1                   ║
-╠══════════════════════════════════════════════════════════════════════╣
+╠══════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  PHASE 1 — Foundation                               ✅  SHIPPED      ║
 ║  ├─ QrtzMusic YouTube Scraper  [Node.js · BullMQ]                   ║
 ║  └─ Kobeni AI Service          [Serverless · Redis]                  ║
 ║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
+╠══════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  PHASE 2 — Scraper Army                             🔨  BUILDING     ║
 ║  ├─ Anime Metadata Scraper     [Python · Cheerio]   🟡 WIP          ║
@@ -370,7 +370,7 @@ xychart-beta
 ║  ├─ Trending Topics Scraper    [BullMQ · Redis]     🔵 PLANNED      ║
 ║  └─ Social Media Feed Scraper  [Puppeteer]          🔵 PLANNED      ║
 ║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
+╠══════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  PHASE 3 — Orchestration                            🔮  FUTURE       ║
 ║  ├─ Unified Scraper Gateway    [API · Rate Limit]   🔮 SOON         ║
@@ -378,7 +378,7 @@ xychart-beta
 ║  ├─ Real-time Data Pipeline    [Redis Streams]      🔮 SOON         ║
 ║  └─ Open-source Scraper SDK    [npm package]        🔮 SOON         ║
 ║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -406,13 +406,13 @@ xychart-beta
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=meguminn1&theme=tokyonight&hide_border=true&stroke=FFB7C5&ring=FFB7C5&fire=ff8fb1&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FFB7C5&dates=aaaaaa&background=0d1117&border_radius=12" height="195" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=meguminn1&theme=tokyonight&hide_border=true&stroke=FFB7C5&ring=FFB7C5&fire=ff8fb1&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FFB7C5&dates=aaaaaa&background=0d1117" width="100%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&icon_color=ff8fb1&text_color=ffffff&ring_color=FFB7C5" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&icon_color=ff8fb1&text_color=ffffff&ring_color=FFB7C5&cache_seconds=86400" width="100%" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&text_color=ffffff&langs_count=8" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&text_color=ffffff&langs_count=8&cache_seconds=86400" width="100%" alt="Top Languages" />
 
 <br/><br/>
 
@@ -442,7 +442,7 @@ xychart-beta
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meguminn1/meguminn1/3d-output/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/meguminn1/meguminn1/3d-output/profile-night-rainbow.svg?cache_bust=1" alt="3D Contribution Graph" width="100%" />
 
 <br/>
 
@@ -532,7 +532,7 @@ xychart-beta
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=2500&color=FFB7C5&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+System+Designer+%7C+Indonesia+%F0%9F%8C%B8;Always+building+something+quiet+%26+impactful+%E2%9C%A8;Node.js+%7C+TypeScript+%7C+BullMQ+%7C+Serverless+%7C+Redis;Build+simple.+Scale+smart.+Stay+reliable." alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=2500&color=FFB7C5&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+System+Designer+%7C+Indonesia+%F0%9F%8C%8F" width="100%" alt="footer-typing" />
 
 <br/><br/>
 
@@ -542,4 +542,4 @@ xychart-beta
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=140&section=footer&text=Build+simple.+Scale+smart.+Stay+reliable.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=140&section=footer&text=Build+simple.+Scale+smart.+Stay+reliable.&fontSize=16&fontColor=ffffff&fontAlignY=75" width="100%" alt="footer" />
